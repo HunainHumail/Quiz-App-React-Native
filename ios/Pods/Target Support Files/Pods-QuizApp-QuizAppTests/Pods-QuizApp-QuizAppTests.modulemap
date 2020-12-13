@@ -1,0 +1,6 @@
+module Pods_QuizApp_QuizAppTests {
+  umbrella header "Pods-QuizApp-QuizAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
